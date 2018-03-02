@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Yessica Katherine Chautá
 
-You can use the [editor on GitHub](https://github.com/ykchautai/ykchautai.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+----
+## ¿Quién soy?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> Actualmente curso últimos semestres de ingeniería de sistemas y computación en la Universidad de Colombia. Además, he trabajado en el área de ventas y como desarrolladora de software.
 
-### Markdown
+----
+## ¿Qué he hecho?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> A través de proyectos en la universidad y de mi trabajo, he tenido la oportunidad de trabajar con herramientas de software, tales como bases de datos en Oracle y MySQL, varios lenguajes de programación, tales como C, C++, Java, Ruby, Python, herramientas como Oracle Apex, Jaspersoft, Matlab, R, entre otros.
 
-```markdown
-Syntax highlighted code block
+----
+## Algunos proyectos realizados
 
-# Header 1
-## Header 2
-### Header 3
+* [SAM](http://wikipedia.org) Servicio de envío de correo electrónico basado en una arquitectura por microservicios, desarrollado para ambientes móvil y web.
+* [Catálogo de publicaciones de la Universidad Nacional](http://wikipedia.org) Aplicación prototipo para el manejo de publicaciones de la Facultad de Ingeniería de la Universidad Nacional, desarrollada como plataforma web en Ruby on Rails.
+* [Compilador TCL](http://wikipedia.org) Aplicación desarrollada con el fin de comprender la estructura de un compilador, haciendo uso de analizadores léxico, semántico y sintáctico.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+----
+## ¿Qué me interesa?
 
-**Bold** and _Italic_ and `Code` text
+Por la diversidad de experiencias que he podido tener en la Universidad y laboralmente, me he interesado por aplicaciones en temas como:
 
-[Link](url) and ![Image](src)
-```
+* Manejo de grandes volúmenes de datos
+* Analítica de datos
+* Gobierno electrónico
+* Seguridad de la información
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
+## Información de contacto
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ykchautai/ykchautai.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[![Foo](https://blog.addthiscdn.com/wp-content/uploads/2015/11/logo-facebook.png)](https://www.facebook.com/yecassi)
