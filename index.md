@@ -13,10 +13,9 @@
 ----
 ## Algunos proyectos realizados
 
-* [SAM](http://wikipedia.org) Servicio de envío de correo electrónico basado en una arquitectura por microservicios, desarrollado para ambientes móvil y web.
-* [Catálogo de publicaciones de la Universidad Nacional](http://wikipedia.org) Aplicación prototipo para el manejo de publicaciones de la Facultad de Ingeniería de la Universidad Nacional, desarrollada como plataforma web en Ruby on Rails.
-* [Compilador TCL](http://wikipedia.org) Aplicación desarrollada con el fin de comprender la estructura de un compilador, haciendo uso de analizadores léxico, semántico y sintáctico.
-
+* [SAM](https://github.com/SoftwareArchitectureMail) Servicio de envío de correo electrónico basado en una arquitectura por microservicios, desarrollado para ambientes móvil y web.
+* [Catálogo de publicaciones de la Universidad Nacional](https://github.com/CatalogoPublicacionesIngenieriaUnal/catalogoPublicaciones) Aplicación prototipo para el manejo de publicaciones de la Facultad de Ingeniería de la Universidad Nacional, desarrollada como plataforma web en Ruby on Rails.
+* [Compilador TCL](https://github.com/mesirendon/lexicanalyzer) Aplicación desarrollada con el fin de comprender la estructura de un compilador, haciendo uso de analizadores léxico, semántico y sintáctico.
 
 ----
 ## ¿Qué me interesa?
