@@ -31,4 +31,4 @@ Por la diversidad de experiencias que he podido tener en la Universidad y labora
 ---
 ## Información de contacto
 
-[![Foo](https://blog.addthiscdn.com/wp-content/uploads/2015/11/logo-facebook.png =20x20)](https://www.facebook.com/yecassi)
+[![Foo](https://www.iconfinder.com/icons/294710/circle_facebook_icon)](https://www.facebook.com/yecassi)
