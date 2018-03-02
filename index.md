@@ -36,4 +36,4 @@ Por la diversidad de experiencias que he podido tener en la Universidad y labora
 * [Github](http://github.com/ykchautai)
 * [Twitter](https://twitter.com/yecassi)
 
-![]https://github.com/ykchautai/ykchautai.github.io/images/phrase.png)
+![](https://github.com/ykchautai/ykchautai.github.io/blob/master/images/phrase.png?raw=true)
