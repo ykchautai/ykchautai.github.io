@@ -31,4 +31,9 @@ Por la diversidad de experiencias que he podido tener en la Universidad y labora
 ---
 ## Información de contacto
 
-[![Foo](https://www.iconfinder.com/icons/294710/circle_facebook_icon)](https://www.facebook.com/yecassi)
+* [Correo electrónico](mailto:ykchautai@unal.edu.co)
+* [Facebook](https://www.facebook.com/yecassi)
+* [Github](http://github.com/ykchautai)
+* [Twitter](https://twitter.com/yecassi)
+
+![]https://github.com/ykchautai/ykchautai.github.io/images/phrase.png)
